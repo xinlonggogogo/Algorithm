@@ -14,7 +14,7 @@ class Solution {
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> path = new ArrayList<>();
-					
+
         path.add(0);
         dfsSearch(graph, 0, res, path);	
         return res;
