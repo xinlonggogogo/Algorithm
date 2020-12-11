@@ -4,7 +4,7 @@ This repo helps you to find a kind of pattern when solving algorithm problems.
 ## Stack
 What to enter into stack?  
 (character, number of consecutive occurrences, index)
-### store prev level information into stack and reconstruct it by popping
+### store prev level information into a stack and reconstruct it by popping
 `Problems like:`  
 * `changing "abc3[cd]xyz" to "abccdcdcdxyz"`  
 * `the score of "(()(()))" is 6 based on` 
@@ -35,8 +35,17 @@ The pattern is:
     * `s = "abcd", k = 2 -> "abcd"`
     * `s = "deeedbbcccbdaa", k = 3 -> "aa"`  
 
+The pattern is:  
+* when traverse the input  
+    + new level or new char 
+        + check condition
+            + delete prev or update prev info
+            + add new char
+    + re-traverse the stack to construct the answer
+
 | LC  | Name | Link |
 | :----- | :----: | :----: |
 | 1209 | Remove All Adjacent Duplicates in String II <br/> Candy Crush(same problem when above k = 3) | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Remove_All_Adjacent_Duplicates_in_String_2.java <br/> https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Candy_Crush_1D.java|
+| 735 | Asteroid Collision | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Asteroid_Collision.java |
 
    
