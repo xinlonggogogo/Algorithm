@@ -37,6 +37,7 @@ The pattern is:
 
 | LC  | Name | Link |
 | :----- | :----: | :----: |
-| 1209 | Remove All Adjacent Duplicates in String II <br/> Candy Crush(same problem when above k = 3) | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Remove_All_Adjacent_Duplicates_in_String_2.java <br/> https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Candy_Crush_1D.java|
+| N/A | Decode String | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Candy_Crush_1D.java |
+| 1209 | Score of Parentheses | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Score_of_Parentheses.java |
 
    
