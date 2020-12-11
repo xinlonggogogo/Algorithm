@@ -48,4 +48,16 @@ The pattern is:
 | 1209 | Remove All Adjacent Duplicates in String II <br/> Candy Crush(same problem when above k = 3) | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Remove_All_Adjacent_Duplicates_in_String_2.java <br/> https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Candy_Crush_1D.java|
 | 735 | Asteroid Collision | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Asteroid_Collision.java |
 
+  
+### stack store indexes info
+`Problems like:`  
+* `Minimum Remove to Make Valid Parentheses`  
+
+The pattern is:  
+* when traverse the input  
+    + store the index info
+    
+| LC  | Name | Link |
+| :----- | :----: | :----: |
+| 1249 | Minimum Remove to Make Valid Parentheses | https://github.com/xinlonggogogo/Algorithm/blob/master/Stack/Decode_String.java |
    
