@@ -29,3 +29,15 @@
 
 ### 12/13/2020
 - [x] Subtree of Another Tree
+- [x] Same Tree
+- [x] Populating Next Right Pointers in Each Node 1/2
+- [x] Clone Graph
+- [x] Min Cost to Connect All Points 
+- [x] Number of Islands
+- [x] Max Area of Islands
+- [x] Number of Distinct Islands
+- [x] All Paths from Source Lead to Destination
+- [x] Unique Path II
+
+
+
